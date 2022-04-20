@@ -1,0 +1,3 @@
+Title: Pack.png Menu Panorama 32x
+Description: Adds the pack.png world as a menu panorama
+Credits: @Wooferscoots , chowda (alpha foliage), ModdingLegacy (pack world), compliance team for textures

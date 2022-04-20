@@ -15,6 +15,6 @@ https://packpng.com/
 
 [chowda](https://faithfulpack.net/addons/alpha-foliage)                - Alpha Foliage
 
-[ModdingLegacy](https://www.curseforge.com/members/moddinglegacy/followers)         - Original Pack Creator
+[ModdingLegacy](https://www.curseforge.com/members/moddinglegacy/followers)         - Map Creator/Converter
 
 [Faithful32](https://faithfulpack.net/)            - Texturepack
